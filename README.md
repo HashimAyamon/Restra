@@ -1,4 +1,5 @@
 # Restra
+
 MERN Stack Project For Restaurants 
 
 Follow the below steps to run the project:
@@ -8,6 +9,7 @@ Follow the below steps to run the project:
 
 
 Technologies:
+-----------------------------------------------------
 Frontend: React
 Backend: Express, MongoDB
 Other Tools:dotenv,Mongoose, Nodemon
